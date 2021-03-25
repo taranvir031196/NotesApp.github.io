@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# <center>**NOTES APP PRIVACY POLICY**</center>
+    
+&#13;&#10;                  Taranvir Singh Saini built the Notes app as
+                  a Free app. This SERVICE is provided by
+                  Taranvir Singh Saini at no cost and is intended for use as
+                  is.
+                 
+&#13;&#10;                  This page is used to inform visitors regarding my
+                  policies with the collection, use, and disclosure of Personal
+                  Information if anyone decided to use my Service.
+                 
+&#13;&#10;                  If you choose to use my Service, there will be abosultely no extraction of
+                  any form of user data and user will be able to use this app with full privacy.
+                 
+&#13;&#10;                  The terms used in this Privacy Policy have the same meanings
+                  as in our Terms and Conditions, which is accessible at
+                  Notes unless otherwise defined in this Privacy Policy.
+                 
+**Information Collection and Use** 
 
-You can use the [editor on GitHub](https://github.com/taranvir031196/notes_app_privacyPolicy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+&#13;&#10;                  There will aboslutely no collection of any form of user data and user can directly
+                  use this app. All the data added by the user in form of notes will not be collected
+                  by me in any form as data will be stored within internal storage of device.
+                 
+<div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&#13;&#10;                    The app does not use any third party services that may collect
+                    information used to identify you.
+                   
+&#13;&#10;                    Link to privacy policy of third party service providers used
+                    by the app
+                   
+- [Google Play Services](https://www.google.com/policies/privacy/)</div>
+                 
+**Cookies** 
 
-### Markdown
+&#13;&#10;                  No data in form of cookies will be collected from the user as we respect full privacy of the user.
+                
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                
+**Security** 
 
-```markdown
-Syntax highlighted code block
+&#13;&#10;                  I value your trust in using our services and your
+                  security is always our top most priority.This app doesn't require any internet connection
+                  and is fully safe and secure.
+&#13;&#10;                 
 
-# Header 1
-## Header 2
-### Header 3
+**Children’s Privacy** 
 
-- Bulleted
-- List
+&#13;&#10;                  These Services do not address anyone under the age of 13.
+&#13;&#10;                 
 
-1. Numbered
-2. List
+**Changes to This Privacy Policy** 
 
-**Bold** and _Italic_ and `Code` text
+&#13;&#10;                  I may update our Privacy Policy from
+                  time to time. Thus, you are advised to review this page
+                  periodically for any changes. I will
+                  notify you of any changes by posting the new Privacy Policy on
+                  this page.
+&#13;&#10;                 
 
-[Link](url) and ![Image](src)
-```
+This policy is effective as of 2021-03-25 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Contact Us** 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taranvir031196/notes_app_privacyPolicy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&#13;&#10;                  If you have any questions or suggestions about my
+                  Privacy Policy, do not hesitate to contact me at [taranvir.554@gmail.com](https://gmail.com/).
